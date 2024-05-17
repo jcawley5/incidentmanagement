@@ -15,5 +15,14 @@
       ],
       "attribute-references": []
     }
-  ]
+  ],
+  "role-collections": [
+    {
+     "name": "support",
+     "description": "support role",
+     "role-template-references": [
+        "$XSAPPNAME.support"
+      ]
+    }
+]
 }
