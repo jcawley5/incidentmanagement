@@ -20,7 +20,7 @@
                 titleAlignment="Left"
                 class="customCellImageBackground">
                 <VBox>
-                    <Text text="1.0.0" />
+                    <Text text="1.0.2" />
                     <Link class="titleLink" text="View Log" target="_blank" href="" visible="false" />
                 </VBox>
             </l:BlockLayoutCell>
